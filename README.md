@@ -17,9 +17,9 @@ Chat bot is a Artificial Intelligence software that can simulate a conversation 
 4. The bot will start asking the name of the person.
 5. And it welcomes the person with greetings and introduce itself.
 6. show_menu() has 3 choice
-   1. Events in a month.
-   2. Calculate an expression.
-   3. End this chat.
+   1.Events in a month.
+   2.Calculate an expression.
+   3.End this chat.
 7. months() takes input as a month name and prints the events in a month with date and day.
 8. evaluate() takes input as an expression and prints the result of an expression.
 9. If we want to end the chat we choose choice 3 and the program will teminates.
