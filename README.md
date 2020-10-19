@@ -5,7 +5,7 @@
 # CALENDAR-EVENTS CHATBOT
 
 ## INTRO OF THE CHATBOT
- This program is the design of the simple chatbot
+ This program is the design of the simple chatbot.
 1.The bot will starts asking the name of the person.
 2.It welcomes the person with greetings and introduce itself.
 3.Bot will ask the person want to do,it will offer a choice of things based up on the bot design.
