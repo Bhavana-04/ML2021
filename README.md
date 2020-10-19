@@ -28,5 +28,5 @@ Chat bot is a Artificial Intelligence software that can simulate a conversation 
 
 ## BLOCK DIAGRAM OF THE CHATBOT
 
-![block diagram](https://github.com/Bhavana-04/ML2021/edit/main/Screenshots%20(30).png)
+![](https://raw.githubusercontent.com/Bhavana-04/ML2021/main/Screenshot%20(30).png)
 
